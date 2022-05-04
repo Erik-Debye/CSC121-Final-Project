@@ -1,0 +1,6 @@
+Games played: 1
+Player Wins: 1
+Player Losses: 0
+Computer Wins: 0
+Computer Losses: 1
+Ties: 0

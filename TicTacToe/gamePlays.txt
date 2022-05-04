@@ -1,0 +1,42 @@
+
+	Player chose 5!
+	Current State of Squares: 1 2 3
+				        4 X 6
+				        7 8 9
+	Computer chose 1!
+	Current State of Squares: O 2 3
+				        4 X 6
+				        7 8 9
+	Player chose 4!
+	Current State of Squares: O 2 3
+				        X X 6
+				        7 8 9
+	Computer chose 3!
+	Current State of Squares: O 2 O
+				        X X 6
+				        7 8 9
+	Player chose 6!
+	Current State of Squares: O 2 O
+				        X X X
+				        7 8 9
+
+	Player won first place on the middle row of squares!
+
+
+
+
+	Computer trying for second place...
+
+
+
+	Computer chose 9!
+	Current State of Squares: O 2 O
+				        X X X
+				        7 8 O
+	Computer chose 2!
+	Current State of Squares: O O O
+				        X X X
+				        7 8 O
+
+	Computer won second place on the top row of squares!
+
